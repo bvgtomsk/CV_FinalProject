@@ -28,6 +28,11 @@
 3. [**Modules**](https://github.com/bvgtomsk/CV_FinalProject/tree/master/Modules) - содержит файлы с кодом созданных модулей и скрипт main.py
 4. [**Notebooks**](https://github.com/bvgtomsk/CV_FinalProject/tree/master/Notebooks) - содержит ноутбуки с ходом выполнения работы
 
+К сожалению в ноутбуках в гитхабе не отображаются видео, для просмотра можно открыть их в колабе:  
+[ноутбук 1](https://colab.research.google.com/drive/1x0bjQ59Izv0_1_Wp8FEtS5Jk60mrJk3T?usp=sharing)  
+[ноутбук 2](https://colab.research.google.com/drive/1Rn6RkSwbQmNBZyicoDAF7cxWfRqfYDbQ?usp=sharing)   
+[ноутбук 3](https://colab.research.google.com/drive/1BLDtmTrxYy0NQdyzHIlcmlTnZkqTnsyn?usp=sharing)  
+
 ## Задача №1. Обработка фотографий и построение каркаса позы человека через ключевые точки
 В качестве основы взятапредобученная модель KeypointRCNN на базе ResNet50 из пакета torchvision
 Подготовлено преобразование изображений
