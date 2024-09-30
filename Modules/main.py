@@ -12,7 +12,7 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--referance_video', metavar='path', required=True,
+    parser.add_argument('--reference_video', metavar='path', required=True,
                         help='the path to reference video')
     parser.add_argument('--video_to_compare', metavar='path', required=True,
                         help='path to video wich you want to compare with reference')
