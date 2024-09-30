@@ -25,7 +25,7 @@
 Репозиторий содержит следующие катологи: 
 1. [**Result_images**](https://github.com/bvgtomsk/CV_FinalProject/tree/master/Result_images) - содержит изображения, отражающие результаты на разных этапах работы 
 2. [**Sample_images**](https://github.com/bvgtomsk/CV_FinalProject/tree/master/Sample_images) - содержит изображения использованные в процессе работы 
-3. [**Modules**](https://github.com/bvgtomsk/CV_FinalProject/tree/master/Modules) - содержит файлы с кодом созданных модулей
+3. [**Modules**](https://github.com/bvgtomsk/CV_FinalProject/tree/master/Modules) - содержит файлы с кодом созданных модулей и скрипт main.py
 4. [**Notebooks**](https://github.com/bvgtomsk/CV_FinalProject/tree/master/Notebooks) - содержит ноутбуки с ходом выполнения работы
 
 ## Задача №1. Обработка фотографий и построение каркаса позы человека через ключевые точки
