@@ -28,7 +28,7 @@ if __name__ == '__main__':
                         help='video to compare time of start comparing')
     parser.add_argument('--comp_end_ms', type = int, required=False,
                         help='video to compare time of end comparing')
-    parser.add_argument('--keypoints_treshold', type = int, required=False,
+    parser.add_argument('--keypoints_threshold', type = int, required=False,
                         help='keypoints threshold')
     parser.add_argument('--head_coef', type = int, required=False,
                         help='head coeficient')
