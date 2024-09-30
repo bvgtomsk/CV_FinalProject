@@ -18,7 +18,7 @@ if __name__ == '__main__':
                         help='path to video wich you want to compare with reference')
     parser.add_argument('--output', metavar='path', required=True,
                         help='path to resulting video')
-    parser.add_argument('--output_width', type = int, required=True,
+    parser.add_argument('--output_width', type = int, required=False,
                         help='width of output video')
     parser.add_argument('--ref_start_ms', type = int, required=False,
                         help='reference video time of start comparing')
