@@ -45,7 +45,4 @@ if __name__ == '__main__':
          ref_end_ms=args.ref_end_ms, 
          comp_start_ms=args.comp_start_ms, 
          comp_end_ms=args.comp_end_ms, 
-         keypoints_threshold=args.keypoints_threshold, 
-         head_coef=args.head_coef, 
-         body_coef=args.body_coef, 
-         body_height=args.body_height)
+    )
